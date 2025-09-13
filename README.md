@@ -11,7 +11,7 @@ This project strengthens ATM security by integrating face detection and recognit
 3. [Running the Project](#running-the-project)  
 4. [Project Structure](#project-structure)  
 
----
+--- 
 
 ## Project Setup
 
