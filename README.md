@@ -1,7 +1,7 @@
 # Project Name: **Strengthening ATM Security – Face Recognition Enhancement**
 
 This project strengthens ATM security by integrating face detection and recognition alongside traditional PIN-based authentication. It uses computer vision techniques to verify the user's identity before allowing ATM access, reducing the risk of unauthorized withdrawals
-
+  
 --- 
  
 ## Table of Contents
